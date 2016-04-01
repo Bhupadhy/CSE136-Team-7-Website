@@ -1,0 +1,29 @@
+.team-list {
+  list-style: none;
+}
+
+.member-pane {
+  float: left;
+  padding: 10px;
+}
+
+.member-profile-picture {
+    max-width: 90px;//real picture size
+    max-height: 90px;
+    margin:0 auto;
+    position: relative;
+    left: 25%;
+    border-radius: 50%;
+}
+
+.member-contact-text {
+
+}
+
+p {
+  margin: 0px;
+}
+
+h3 {
+  margin: 0px;
+}
